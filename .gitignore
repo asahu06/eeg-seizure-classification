@@ -1,9 +1,7 @@
 siena/
 siena_stft_cache/
 checkpoints/
-*.png
 __pycache__/
 *.pyc
 .venv/
 Notebooks/
-!results/*.png
